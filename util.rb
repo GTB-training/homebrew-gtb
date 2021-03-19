@@ -6,6 +6,7 @@ class Util < Formula
 
   depends_on "gh"
   depends_on "pv"
+  depends_on "node"
   depends_on "httpie"
   depends_on "jsonpp"
   depends_on "datamash"
