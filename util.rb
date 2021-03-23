@@ -9,6 +9,7 @@ class Util < Formula
   depends_on "node"
   depends_on "httpie"
   depends_on "jsonpp"
+  depends_on "parallel"
   depends_on "datamash"
 
   def install
