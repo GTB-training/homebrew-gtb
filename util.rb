@@ -12,7 +12,7 @@ class Util < Formula
   depends_on "jsonpp" => "1.3.0"
   depends_on "parallel"
   depends_on "datamash" => "1.7"
-  depends_on "git" => "2.31.1"
+  depends_on "git"
 
   def install
      bin.install "gtb"
