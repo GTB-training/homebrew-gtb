@@ -13,6 +13,7 @@ class Util < Formula
   depends_on "parallel"
   depends_on "datamash" => "1.7"
   depends_on "git"
+  depends_on "coreutils"
 
   def install
      bin.install "gtb"
