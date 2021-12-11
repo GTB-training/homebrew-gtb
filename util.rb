@@ -13,6 +13,7 @@ class Util < Formula
   depends_on "parallel"
   depends_on "datamash" => "1.7"
   depends_on "git" => "2.34.1"
+  depends_on "gawk" => "5.1.1"
   depends_on "coreutils" => "9.0"
   depends_on "findutils" => "4.8.0"
 
