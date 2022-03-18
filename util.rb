@@ -6,7 +6,7 @@ class Util < Formula
 
   depends_on "gh" => "1.9.2"
   depends_on "pv" => "1.6.6"
-  depends_on "node" => "16.0.0"
+  depends_on "node@16"
   depends_on "httpie" => "2.4.0"
   depends_on "jq" => "1.6"
   depends_on "jsonpp" => "1.3.0"
