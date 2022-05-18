@@ -1,8 +1,8 @@
 class Util < Formula
   desc "Utilities to help download students homework repositories, etc."
   homepage ""
-  url "https://codeload.github.com/GTB-training/util/tar.gz/v1.244.0"
-  sha256 ""
+  url "https://codeload.github.com/GTB-training/util/tar.gz/v1.245.0"
+  sha256 "cfa45cdd706bc1eb83a637cfcb29c4b96f178dee5f77dfd4ef732641cdcb151b"
 
   depends_on "gh" => "1.9.2"
   depends_on "pv" => "1.6.6"
