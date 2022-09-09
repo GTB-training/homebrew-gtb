@@ -20,6 +20,7 @@ class Util < Formula
 
   def install
      bin.install "gtb"
+     bin.install Dir["gtb*"]
   end
 
 end
